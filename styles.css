@@ -17,12 +17,19 @@ img{
 
 }
 
-nav{
-    padding: 2px;
-    width: 15%;
-    background-color: white;
-    
+
+
+nav ul {
+	text-align: center;
+	padding: 0;
 }
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 1em;
+}
+
 
 body{
     background-color: gray
